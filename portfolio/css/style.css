@@ -1,0 +1,129 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(https://media.istockphoto.com/id/1574124197/photo/4k-abstract-colorful-design-colorful-swirl-texture-background-marbling.jpg?s=612x612&w=0&k=20&c=uWhHzG--O6KqCIlXdRH1im_ZeEdaKJ_zQqzniU-8KlU=);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skills-padding{
+    padding: 75px 0;
+}
+.image--cover{
+    width: 350px;    
+    height: 350px;
+    border-radius: 50%;
+
+}
+.m{
+    transition: 2s;
+    margin: auto;
+}
+.m:hover:hover{
+    transform: scale(0.9);
+}
+.m1{
+    transition: 2s;
+    margin: auto;
+}
+.m1:hover:hover{
+    transform: scale(0.9);
+}.m2{
+    transition: 2s;
+    margin: auto;
+}
+.m2:hover:hover{
+    transform: scale(0.9);
+}.m3{
+    transition: 2s;
+    margin: auto;
+}
+.m3:hover:hover{
+    transform: scale(0.9);
+}
+.image--cover{
+    transition:1s;
+    margin: auto;
+}
+.image--cover:hover{
+    transform: scale(1.1);
+}
+.ff{
+    width:fit-content;
+    height:fit-content;
+    color: aqua;
+    box-shadow: 0cap;
+}
+.it{
+    width: 40px;    
+    height: 40px;
+    border-radius: 50%;
+
+}
+.it:hover{
+     box-shadow: 0px 0px 8px #099fc0 inset,0px 0px 8px #ff0095;
+}
+.it:hover:hover{
+    transform: scale(1.1);
+}
+.it{
+      transition: 3s;
+    margin: auto;
+}
+.cb{
+    display:inline-flexbox;;
+}
+.m:hover{
+     box-shadow: 0px 0px 10px #358597 inset,0px 0px 10px #358597;
+}.m1:hover:hover{
+     box-shadow: 0px 0px 10px #358597 inset,0px 0px 10px #358597;
+}.m2:hover:hover{
+     box-shadow: 0px 0px 10px #358597 inset,0px 0px 10px #358597;
+}.m3:hover{
+     box-shadow: 0px 0px 10px #358597 inset,0px 0px 10px #358597;
+}
+.bg{
+    font-size: 45px;
+    line-height: 80px;
+    font-weight: 800;
+    
+    background-image: url(https://i0.wp.com/www.frontendhero.dev/wp-content/uploads/2020/03/bg.jpeg?resize=1024%2C713&ssl=1);
+    color: #de466c;
+    background-clip:text;
+
+    -webkit-text-fill-color: transparent;
+    
+}
+.bg1{
+    font-size: 25px;
+    line-height: 80px;
+    font-weight: 800;
+    
+    background-image: url(https://i0.wp.com/www.frontendhero.dev/wp-content/uploads/2020/03/bg.jpeg?resize=1024%2C713&ssl=1);
+    color: #de466c;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bg2{
+    
+    font-weight: 800;
+    
+    background-image: url(https://i0.wp.com/www.frontendhero.dev/wp-content/uploads/2020/03/bg.jpeg?resize=1024%2C713&ssl=1);
+    color: #de466c;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bg3{
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 800;
+    
+    background-image: url(https://i0.wp.com/www.frontendhero.dev/wp-content/uploads/2020/03/bg.jpeg?resize=1024%2C713&ssl=1);
+    color: #de466c;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bg4{
+    background-color: #e5fcf5;
+    
+}
